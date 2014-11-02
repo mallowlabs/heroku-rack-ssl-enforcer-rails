@@ -5,8 +5,8 @@ Gem::Specification.new do |s|
   s.authors     = ["mallowlabs"]
   s.email       = ["mallowlabs@gmail.com"]
   s.homepage    = "https://github.com/mallowlabs/heroku-rack-ssl-enforcer-rails"
-  s.summary     = "Enforce SSL on Heroku"
-  s.description = "This gem adds automatically rack-ssl-enforcer on Heroku"
+  s.summary     = "Enforce SSL on Rails application on Heroku"
+  s.description = "This gem adds automatically rack-ssl-enforcer on Rails application on Heroku"
   s.license     = "MIT"
 
   s.required_rubygems_version = ">= 1.3.6"

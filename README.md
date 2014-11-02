@@ -1,6 +1,6 @@
 # heroku-rack-ssl-enforcer-rails
 
-Enforce SSL on Heroku.
+Enforce SSL on Rails application on Heroku.
 
 ## Usage
 
